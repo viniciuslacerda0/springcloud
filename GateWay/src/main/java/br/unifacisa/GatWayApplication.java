@@ -1,4 +1,4 @@
-package com.hackaton.lindoOlhar;
+package br.unifacisa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
