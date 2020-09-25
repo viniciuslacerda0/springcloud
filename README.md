@@ -1,7 +1,5 @@
 # Springcloud
 
-## Download 
-
 ## Import all projects
 
 run in this sequence
